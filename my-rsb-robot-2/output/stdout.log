@@ -1,0 +1,7 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+<bound method Page.inner_html of <Page url='https://robotsparebinindustries.com/#/robot-order'>>
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Robots - Robocorp\my-rsb-robot-2\output\log.html
